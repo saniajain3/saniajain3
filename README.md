@@ -1,39 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sania Jain</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="AI animation">
-</p>
-<p align="center">A passionate B.Tech CS student at VIT Bhopal, specializing in AI/ML and Full Stack Development</p>
+<h1 align="center">Hi there 👋, I'm Sania Jain</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saniajain3&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  🚀 AI/ML Enthusiast | Full Stack Developer | Women Techmakers Lead
 </p>
 
 ---
 
-## 🌐 Socials:
+### 👩‍🎓 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sania-jain)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saniajain3)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jainsania3)
-
----
-
-## 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- 🎓 B.Tech CSE Student at **VIT Bhopal** (2022–2026)  
+- 🛠️ Currently working on: AI-powered real-time apps & virtual experiences  
+- 🤝 Open to collaborating on impactful full stack & ML projects  
+- 💬 Ask me about: Flask, Django, AngularJS, OpenCV, ML/DL, Python, SQL  
+- 🎨 Fun fact: I love designing intuitive interfaces & organizing tech events!
 
 ---
 
-## 🧰 Tools & Frameworks
+### 📬 Contact Me
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3)
+- 📧 Email: [jainsania3@gmail.com](mailto:jainsania3@gmail.com)  
+- 🔗 LinkedIn: [Sania Jain](https://linkedin.com/in/sania-jain)  
+- 💻 GitHub: [@saniajain3](https://github.com/saniajain3)
+
+---
+
+### 💻 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📊 GitHub Stat
