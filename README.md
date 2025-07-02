@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sania Jain</h1>
 
 <p align="center">
-  🚀 AI/ML Enthusiast | Full Stack Developer | Women Techmakers Lead
+  🚀 AI/ML Enthusiast | Women Techmakers Lead GDG VIT bhopal
 </p>
 
 ---
@@ -18,7 +18,6 @@
 
 ### 📬 Contact Me
 
-- 📧 Email: [jainsania3@gmail.com](mailto:jainsania3@gmail.com)  
 - 🔗 LinkedIn: [Sania Jain](https://linkedin.com/in/sania-jain)  
 - 💻 GitHub: [@saniajain3](https://github.com/saniajain3)
 
